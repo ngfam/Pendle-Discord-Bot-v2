@@ -25,6 +25,7 @@ export class MeetingCommand extends Command {
 
         for (let i = 0; i < members.size; ++i) {
             const member = members.at(i)!;
+            if (member.user.bot) continue;
             if (member.voice.channelId != process.env.MEETING_ROOM) {
                 unjoinedMembers.push(!ping ? member.user.username : member.user.toString());
             }
