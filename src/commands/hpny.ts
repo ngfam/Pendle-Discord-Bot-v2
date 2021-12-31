@@ -88,12 +88,15 @@ const wishes = [
     'Wishing you all a blissful new year. Hope that joy and success follow you in every sector of life.',
     'To a New Year full of new possibilities, even though I’m sure we’ll just do the same old stuff anyway.',
     'This new year message is packed full of virus-free hugs and kisses just for you! We hope you have a very happy new year and that we can see you again soon. Until then, cheers to you from afar for your good health and happiness!',
+    'Happy new year, and congrats. You just won 10 $PENDLE from our big boi Anton LOLOLOLL.',
+    'May a gift of 20 $PENDLE from Anton be with you this year.',
+    'How do you like spending your great 2022 with 30 $PENDLE from Anton?'
 ];
 
 const backslash = '\\';
 
 const scripts_after = [
-    'Thank you all for such a Pendle. I wish you all a Happy New Year.',
+    '@everyone Thank you all for such a Pendle. I wish you all a Happy New Year.',
     `\`\`\`
          .* *.               \`o\`o\`               PENDLE 2022
          *. .*              o\`o\`o\`o      ^,^,^
